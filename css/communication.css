@@ -1,0 +1,147 @@
+* {
+  padding: 0;
+  margin: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+/* Указываем box sizing */
+*,
+*::before,
+*::after {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* Убираем внутренние отступы */
+ul[class],
+ol[class] {
+  padding: 0;
+}
+
+/* Убираем внешние отступы */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+.wrapper {
+  width: 100%;
+  height: 100vh;
+  background: url("../img/tour-form-banner.jpg") center no-repeat;
+  background-size: cover;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+          text-align: center;
+}
+
+.module {
+    height: 390px;
+    width: 570px;
+    background: #fff;
+    padding: 23px 40px 30px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 4px 16px #ccc;
+    box-shadow: 0 4px 16px #ccc;
+    z-index: 10;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+.module__buttons {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.module-title {
+    margin-bottom: 10px;
+    font-size: 21px;
+}
+.module-button {
+    flex: 0 0 46%;
+    margin: 20px 7px;
+    display: inline-block;
+    padding: 20px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 20px;
+    transition: 0.3s;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-family: "Open Sans", sans-serif;
+    cursor: pointer;
+    font-size: 13px;
+}
+.module-button:hover {
+    background: inherit;
+    color: #000;
+    transition: 0.3s;
+}
+.module-button--viber {
+    background: #7360f2;
+    border: 1px solid #7360f2;
+}
+.module-button--telegram {
+    background: #36D8FF;
+    border: 1px solid #36D8FF;
+}
+.module-button--request {
+    background: #e32c1c;
+    border: 1px solid #e32c1c;
+}
+.module-button--tel {
+    background: #00D678;
+    border: 1px solid #00D678;
+}
+
+.header__form__agreement {
+  font-size: 12px;
+  text-align: center;
+  margin-bottom: 5px;
+  line-height: 14px;
+  max-width: 450px;
+}
+
+@media screen and (max-width: 580px) {
+    .module-button {
+        flex: 0 0 100%;
+    }
+    .module {
+        height: 610px;
+        width: 100%;
+        margin: 0 10px;
+        padding: 23px 25px 30px;
+    }
+    .module-title {
+        font-size: 17px;
+    }
+}
+  

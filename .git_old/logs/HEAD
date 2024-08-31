@@ -1,0 +1,16 @@
+0000000000000000000000000000000000000000 2b5175987eb24a509c42d998d8444cc15ef050d3 rkmud <korbutustina@icloud.com> 1721312711 +0300	commit (initial): first commit
+2b5175987eb24a509c42d998d8444cc15ef050d3 0000000000000000000000000000000000000000 rkmud <korbutustina@icloud.com> 1721312747 +0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 2b5175987eb24a509c42d998d8444cc15ef050d3 rkmud <korbutustina@icloud.com> 1721312747 +0300	Branch: renamed refs/heads/master to refs/heads/main
+2b5175987eb24a509c42d998d8444cc15ef050d3 9dfd787baeffa91ba1698bff56b2e04101ac48f5 rkmud <korbutustina@icloud.com> 1721312784 +0300	commit: init
+9dfd787baeffa91ba1698bff56b2e04101ac48f5 9dfd787baeffa91ba1698bff56b2e04101ac48f5 rkmud <korbutustina@icloud.com> 1721312827 +0300	checkout: moving from main to main
+9dfd787baeffa91ba1698bff56b2e04101ac48f5 9dfd787baeffa91ba1698bff56b2e04101ac48f5 rkmud <korbutustina@icloud.com> 1721312836 +0300	checkout: moving from main to main
+9dfd787baeffa91ba1698bff56b2e04101ac48f5 fc7e7899775c7275f4abb633c76a4aed4caaed08 rkmud <korbutustina@icloud.com> 1721312881 +0300	commit: 1
+fc7e7899775c7275f4abb633c76a4aed4caaed08 bbd871ec4e8164f21b335f12330e6ff25e0b4e50 rkmud <korbutustina@icloud.com> 1721312884 +0300	commit: 1
+bbd871ec4e8164f21b335f12330e6ff25e0b4e50 0000000000000000000000000000000000000000 rkmud <korbutustina@icloud.com> 1725115341 +0300	Branch: renamed refs/heads/main to refs/heads/main
+0000000000000000000000000000000000000000 7c93c5f6b6972ce8dafebf18da57dc51ef290d30 rkmud <korbutustina@icloud.com> 1725115563 +0300	commit (initial): Init
+7c93c5f6b6972ce8dafebf18da57dc51ef290d30 7c93c5f6b6972ce8dafebf18da57dc51ef290d30 rkmud <korbutustina@icloud.com> 1725115963 +0300	reset: moving to HEAD
+7c93c5f6b6972ce8dafebf18da57dc51ef290d30 7c93c5f6b6972ce8dafebf18da57dc51ef290d30 rkmud <korbutustina@icloud.com> 1725116390 +0300	checkout: moving from main to main
+7c93c5f6b6972ce8dafebf18da57dc51ef290d30 0000000000000000000000000000000000000000 rkmud <korbutustina@icloud.com> 1725116419 +0300	Branch: renamed refs/heads/main to refs/heads/main
+7c93c5f6b6972ce8dafebf18da57dc51ef290d30 7c93c5f6b6972ce8dafebf18da57dc51ef290d30 rkmud <korbutustina@icloud.com> 1725116419 +0300	Branch: renamed refs/heads/main to refs/heads/main
+7c93c5f6b6972ce8dafebf18da57dc51ef290d30 7c93c5f6b6972ce8dafebf18da57dc51ef290d30 rkmud <korbutustina@icloud.com> 1725116524 +0300	checkout: moving from main to main
+7c93c5f6b6972ce8dafebf18da57dc51ef290d30 9792c0f87cf67e9a4346fd02121f2f88b3693bc9 rkmud <korbutustina@icloud.com> 1725116551 +0300	commit: init

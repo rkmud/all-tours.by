@@ -1,0 +1,3 @@
+AddDefaultCharset utf-8
+RewriteEngine On
+RewriteRule ^(.*/)?index\.html$ http://all-tours.by? [R=301,L]

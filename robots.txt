@@ -1,0 +1,13 @@
+User-agent: Yandex
+Disallow: /agreement.html
+Disallow: /testzayavkaavto.html
+Disallow: /confidentiality.html
+Disallow: /processing.html
+Disallow: /successavto.html
+
+User-agent: Googlebot
+Disallow: /agreement.html
+Disallow: /testzayavkaavto.html
+Disallow: /confidentiality.html
+Disallow: /processing.html
+Disallow: /successavto.html
