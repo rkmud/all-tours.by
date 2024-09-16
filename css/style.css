@@ -749,6 +749,7 @@ input::-webkit-inner-spin-button {
   max-width: 1200px;
   margin: 0 auto;
   color: #000;
+  text-align: left;
 }
 .tour-text,
 .autotour-text {
@@ -784,6 +785,16 @@ input::-webkit-inner-spin-button {
   text-align: left;
   padding-bottom: 10px;
   line-height: 1.2;
+}
+.title-link {
+  font-size: 18px;
+  width: 100%;
+  font-weight: 500;
+  text-align: left;
+  padding-bottom: 10px;
+  line-height: 1.2;
+  color: dodgerblue;
+  cursor: pointer;
 }
 .tour-text:last-child {
   padding-bottom: 0;
@@ -1632,7 +1643,8 @@ input[type='range']::-webkit-slider-thumb {
 }
   .block-title,
   .block-subtitle,
-  .block-descp{
+  .block-descp,
+  .title-link{
     max-width: 900px;
     margin: 0 auto;
   }
@@ -1827,7 +1839,8 @@ input[type='range']::-webkit-slider-thumb {
     margin-bottom: 15px;
     line-height: 28px;
   }
-  .block-descp {
+  .block-descp,
+  .title-link {
     font-size: 22px;
   }
   .aviatur-title {
@@ -1879,6 +1892,7 @@ input[type='range']::-webkit-slider-thumb {
   .block-title,
   .block-subtitle,
   .block-descp ,
+  .title-link,
   .text {
     max-width: 700px;
     margin: 0 auto;
@@ -2354,6 +2368,7 @@ input[type='range']::-webkit-slider-thumb {
   .block-title,
   .block-subtitle,
   .block-descp ,
+  .title-link,
   .text {
     max-width: 550px;
   }
@@ -2406,7 +2421,8 @@ input[type='range']::-webkit-slider-thumb {
   .block-subtitle {
     font-size: 18px;
   }
-  .block-descp {
+  .block-descp,
+  .title-link{
     font-size: 16px;
   }
   .aviatur-title {
@@ -2783,7 +2799,8 @@ input[type='range']::-webkit-slider-thumb {
   }
   .block-title,
   .block-subtitle,
-  .block-descp{
+  .block-descp,
+  .title-link{
     max-width: 350px;
   }
   .text {
