@@ -778,7 +778,7 @@ input::-webkit-inner-spin-button {
   line-height: 1.2;
 }
 .block-descp {
-  font-size: 20px;
+  font-size: 18px;
   width: 100%;
   font-weight: 500;
   text-align: left;
@@ -1515,7 +1515,7 @@ input[type='range']::-webkit-slider-thumb {
 
   .header__nav-link {
     font-size: 16px;
-    margin:0 5px 0 0;
+    margin:0 20px 0 0;
   }
 
   .header__logo {
