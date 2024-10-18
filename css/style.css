@@ -245,6 +245,7 @@ input::-webkit-inner-spin-button {
   display: -ms-flexbox;
   display: flex;
   max-width: 1000px;
+  min-width: 550px;
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
   justify-content: space-between;
@@ -252,7 +253,7 @@ input::-webkit-inner-spin-button {
 .header__nav-list--top {
   position: relative;
   padding-bottom: 10px !important;
-  gap: 30px;
+
 }
 .header__nav-list--bottom {
   padding-top: 16px !important;
