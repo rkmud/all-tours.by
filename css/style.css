@@ -2396,6 +2396,9 @@ input[type='range']::-webkit-slider-thumb {
   .header__logo {
     width: 140px;
   }
+  .header__nav-list {
+    min-width: 100px;
+  }
   .banner-title__br {
     display: none;
   }
